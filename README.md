@@ -1,2 +1,2 @@
 # github-action-hackathon
-GitHub Action Hackathon
+GitHub Action Hackathon 2020
